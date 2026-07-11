@@ -21,4 +21,8 @@
 
 ## Telegram ボット
 
+| 名前 | 説明 | Telegram | 詳細 |
+|------|------|----------|------|
+| Weight Goal Bot | グループで写真付きの週間減量目標、進捗グラフ、リマインダー、実績を管理。中国語・英語・ロシア語に対応 | [開く](https://t.me/my_weight_goal_bot) | [詳細](bots/weight-goal-bot.md) |
+
 EOF
